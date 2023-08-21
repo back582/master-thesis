@@ -12,4 +12,4 @@ The object to be predicted is divided into several smaller objects and analyzed 
 The yolo model consists of C language.
 
 ### Version
-YOLOv3
+YOLOv7
