@@ -1,3 +1,5 @@
+# Type of fracture
+
 There are six typical types of fractures by shape.
 Depending on the situation, fractures may occur in a closed or open state.
 
