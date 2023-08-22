@@ -1,6 +1,6 @@
 # master-thesis
 
-### summary
+### Summary
 Medical AI Assisted in Bone Fracture Surgery Using YOLO Model
 
 ### SW environment
