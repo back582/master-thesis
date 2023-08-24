@@ -1,7 +1,7 @@
 # master-thesis
 
 ### Summary
-Development of Medical AI Based on YOLO Model to Support Surgical Plan for Bone Fracture Area
+Development of Medical AI Based on YOLO Model to Support Surgical Plan for Bone Fracture Area  
 뼈 골절 부위 수술 계획 지원을 위한 YOLO 모델 기반의 의료 AI 개발
 
 ### SW environment
