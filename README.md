@@ -1,8 +1,8 @@
 # master-thesis
 
 ### Summary
-Medical AI Assisted in Bone Fracture Surgery Using YOLO Model  
-욜로 모델을 사용한 뼈 골절 수술을 지원하는 의료 AI
+Development of Medical AI Based on YOLO Model to Support Surgical Plan for Bone Fracture Area
+뼈 골절 부위 수술 계획 지원을 위한 YOLO 모델 기반의 의료 AI 개발
 
 ### SW environment
 -. matlab (version - R2023a)  
