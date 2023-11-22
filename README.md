@@ -6,9 +6,9 @@ Development of Medical AI Based on YOLO Model to Support Surgical Plan for Bone 
 
 ### SW environment
 -. matlab (version - R2023a)  
-https://kr.mathworks.com/downloads/
+https://kr.mathworks.com
 
 ### Object detection model
--. YOLO (version - v7)  
-https://pjreddie.com/darknet/yolo/
+-. YOLO (version - v4)  
+https://github.com/AlexeyAB/darknet
 
